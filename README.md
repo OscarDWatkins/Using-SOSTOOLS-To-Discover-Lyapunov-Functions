@@ -24,13 +24,14 @@ Computational cost scales poorly with system dimension, making these methods imp
 A more efficient ROA algorithm (Liu et al., 2024) completed in under 3 minutes versus 10–20 minutes for the standard approach, at the cost of a more conservative estimate — a worthwhile trade-off for higher-dimensional systems.
 These limitations make the case for AI-driven Lyapunov discovery, while SOS methods remain valuable as a tool for mathematically rigorous verification of AI-generated candidates.
 
-ROA Results: 
+**ROA Results: ** (Taken from Paper) 
 
 
 
 
 <img width="769" height="520" alt="image" src="https://github.com/user-attachments/assets/86dc087b-4b91-4a7d-8f59-dab83d509816" />
-<img width="782" height="454" alt="image" src="https://github.com/user-attachments/assets/e40821d5-782c-448f-a6c6-ee7581fd9831" />
+<img width="879" height="609" alt="image" src="https://github.com/user-attachments/assets/25fe5ca9-c13f-44a0-bff4-495fbf6d5bcd" />
+
 
  
 
